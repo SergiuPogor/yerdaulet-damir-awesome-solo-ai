@@ -235,6 +235,7 @@ Give your agent a persistent brain beyond the codebase. **→ Full pages in [`me
 - [Claude Code](https://claude.com/claude-code) — Anthropic's terminal/IDE coding agent; the hub of this stack. 🧩
 - [NextReset](https://nextreset.ai/) — tracks source-linked Codex reset history and experimental forecasts, with a browser-local countdown timer. 🆓
 - [Cursor](https://cursor.com) — the AI-native IDE. 🧩
+- [Massvai](https://massvai.com) — builds exportable Next.js apps from prompts, with a live preview, Supabase, GitHub sync, and Vercel deployment. 🆓
 - [Windsurf](https://windsurf.com) — agentic IDE with deep codebase awareness.
 - [Cline](https://github.com/cline/cline) — open-source autonomous coding agent for VS Code. 🔓
 - [Aider](https://aider.chat) — AI pair programming in your terminal. 🔓
@@ -288,6 +289,7 @@ Building is half the job — this is how a solo builder gets users. **Where to l
 
 **Research what to build**
 - [IdeaHunter](https://ideahunter.today) — turns public buyer pain and market signals into scoped app ideas with source evidence, MVP boundaries, and a validation step. 🆓
+- [FalcoScan](https://falcoscan.com) — searchable AI product database with market activity, competition, and opportunity signals; includes an API and MCP server. 🔌 🧩
 
 **Where to launch**
 - [Product Hunt](https://producthunt.com) — the classic launch-day spike for tools and SaaS.
